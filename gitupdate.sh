@@ -13,4 +13,4 @@ echo ""
 echo ""
 echo ""
 echo ""
-git status>
+git status
